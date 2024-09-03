@@ -119,7 +119,7 @@ export default function WeatherWidget() {
     >
       <Card
         className="w-full max-w-md mx-auto text-center"
-        style={{ backgroundColor: 'rgba(255, 255, 255, 0.5)' }}
+        style={{ backgroundColor: 'rgba(255, 255, 255, 0.6)' }}
       >
         <CardHeader>
           <CardTitle>Weather Widget</CardTitle>
